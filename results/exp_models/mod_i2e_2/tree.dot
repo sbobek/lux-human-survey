@@ -1,0 +1,7 @@
+digraph mediationTree{
+8739200045349[label="",shape=box, color=black, image="./imgs/8739200045349.png"]8739200045349->8739199478914[label="<0.03
+ conf=1.0 "]
+8739199478914[label="",shape=box, color=red,image="./imgs/8739199478914.png"]8739200045349->8739199450887[label=">=0.03
+ conf=1.0 "]
+8739199450887[label="",shape=box, color=red,image="./imgs/8739199450887.png"]
+}
